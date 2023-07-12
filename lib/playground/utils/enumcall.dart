@@ -1,0 +1,1 @@
+enum CallType { video, audio }
